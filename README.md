@@ -71,7 +71,7 @@ PrivateKey = {PRIVATE_KEY_PROPIA}
 [Peer]
 PublicKey = {PUBLIC_KEY_EXTERNA}
 AllowedIPs = {IP_RED_EXTERNA}/24, {IP_TUNEL}/32
-Endpoint = {IP_ROUTER_INTERNET}:{PUERTO}
+Endpoint = {IP_ROUTER_INTERNET_DE_LA_OTRA_RED}:{PUERTO}
 ```
 
 Tras editar:
