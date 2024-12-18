@@ -85,3 +85,10 @@ Mostrar archivo ->
 ```bash
 wg show
 ```
+
+## Instalación de apache
+
+```bash
+apt install apache2
+```
+Posteriormente nos conectaremos desde un cliente a otro a través de su IP en el navegador al otro cliente donde hemos instalado apache. 
